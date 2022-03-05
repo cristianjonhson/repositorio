@@ -13,7 +13,8 @@ public class MiPrimeraClase {
 	 */
 
 String nombre;
-String apellido; 
+String apellido;
+String Email;
 
 	public MiPrimeraClase() {
 		// TODO Auto-generated constructor stub
